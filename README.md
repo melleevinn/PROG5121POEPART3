@@ -2,7 +2,7 @@
 
 src/main/java/assignment2/prog5121/... src/test/java/assignment2/prog5121/... pom.xml testJava.yml README.md JSON storage file (storedMessages.json)
 
-since rhis is a build upon assignment 2 the src files are written assignment 2 but the application has part 3 updates
+since this is a build upon assignment 2 the src files are written assignment 2 but the application has part 3 updates
 
 ## Overview
 Implements Part 3 for Programming 1A. Allows users to send, store, or discard messages via JOptionPane.
